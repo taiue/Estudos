@@ -8,7 +8,7 @@ section{
     min-height: 100vh;
     width: 100%;
     
-    background: url('https://images.unsplash.com/photo-1501446690852-da55df7bfe07?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80');
+    background: url('https://gifdb.com/images/high/green-aesthetic-anime-rain-puddle-exaa3sm9fldhstnf.gif');
     background-position: center;
     background-size: cover;
 }
@@ -23,11 +23,11 @@ section{
     background-color: transparent, 0.5;
     
     
-    border: 2px solid rgba(255, 255, 255, 0.5);
+    border: 2px solid rgba(248, 248, 248, 0.5);
 }
 h2{
     font-size: 2em;
-    color: rgba(255, 255, 255, 0.5);
+    color: rgba(68, 65, 65, 0.5);
     text-align: center;
 }
 
